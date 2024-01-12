@@ -21,7 +21,9 @@ Notes that actually many audio generation models are also able to generate speec
 
 ### Speech to Speech Translation (S2ST/ STST)
 
-* **Seamless**: [Seamless: Multilingual Expressive and Streaming Speech Translation](http://arxiv.org/abs/2312.05187) (2023-12, Meta) [[Code and model opensourced](https://github.com/facebookresearch/seamless_communication)]
+* **Seamless**: [Seamless: Multilingual Expressive and Streaming Speech Translation](http://arxiv.org/abs/2312.05187) (2023-12, Meta) [[Official Code & Model](https://github.com/facebookresearch/seamless_communication)]
+* **Translatotron 3**: [Translatotron 3: Speech to Speech Translation with Monolingual Data](https://arxiv.org/abs/2305.17547) (2023-05, Google) [[Demo](https://google-research.github.io/lingvo-lab/translatotron3/)]
+* **VALL-E X**: [Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling](https://arxiv.org/abs/2303.03926) (2023-03, Microsoft) [[Demo](https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e-x/), [Unofficial Code](https://github.com/Plachtaa/VALL-E-X)]
 
 ### Text to Music(TTM)
 
