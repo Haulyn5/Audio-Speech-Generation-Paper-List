@@ -1,5 +1,5 @@
 # Audio &amp; Speech Generation Paper List
-A curated list of papers and resources in Speech &amp; Audio Generation. This project is just starting and still require a lot of work. So feel free to contribute!
+A curated list of papers and resources related to Speech &amp; Audio Generation. This project is just starting and still requires a lot of work. So feel free to contribute!
 
 ## Paper
 
@@ -24,6 +24,10 @@ Notes that actually many audio generation models are also able to generate speec
 * **Seamless**: [Seamless: Multilingual Expressive and Streaming Speech Translation](http://arxiv.org/abs/2312.05187) (2023-12, Meta) [[Official Code & Model](https://github.com/facebookresearch/seamless_communication)]
 * **Translatotron 3**: [Translatotron 3: Speech to Speech Translation with Monolingual Data](https://arxiv.org/abs/2305.17547) (2023-05, Google) [[Demo](https://google-research.github.io/lingvo-lab/translatotron3/)]
 * **VALL-E X**: [Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling](https://arxiv.org/abs/2303.03926) (2023-03, Microsoft) [[Demo](https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e-x/), [Unofficial Code](https://github.com/Plachtaa/VALL-E-X)]
+
+#### Streaming & Simultaneous Translation
+
+* **STACL**: [STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency using Prefix-to-Prefix Framework](https://aclanthology.org/P19-1289/) (ACL 2019) [[Demo](https://simultrans-demo.github.io/)]
 
 ### Text to Music(TTM)
 
