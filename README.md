@@ -7,6 +7,7 @@ A curated list of papers and resources related to Speech &amp; Audio Generation.
 
 * **VALL-E**: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2301.02111) (2023-01, Microsoft) [[Unofficial code](https://github.com/enhuiz/vall-e)] 
 * **Your TTS**: [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for Everyone](https://proceedings.mlr.press/v162/casanova22a.html) (ICML 2022) [[Code](https://github.com/coqui-ai/tts)]
+* **FastSpeech2**: [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://openreview.net/forum?id=piLPYqxtWuA) (ICLR 2021) [[Unofficial Code](https://github.com/ming024/FastSpeech2)] A non-autoregressive text-to-speech (TTS) model designed to more effectively address the one-to-many mapping challenge in TTS, while outperforming autoregressive models in terms of voice quality.
 
 ### Voice Conversion (VC)
 
@@ -42,5 +43,7 @@ Notes that actually many audio generation models are also able to generate speec
 ### Speech Synthesis
 
 * [BERT-VITS2](https://github.com/fishaudio/Bert-VITS2): A TTS tool shows great performance on Chinese speech synthesis.
-* [Amphion](https://github.com/open-mmlab/Amphion): An Open-Source Audio, Music, and Speech Generation Toolkit. The Goal of Amphion is to offer a platform for studying the conversion of any inputs into audio. (TTS, SVS, VC, SVC, TTA, TTM) [[Paper](https://arxiv.org/abs/2312.09911)]
+* [Amphion](https://github.com/open-mmlab/Amphion): An Open-Source Audio, Music, and Speech Generation Toolkit. The Goal of Amphion is to offer a platform for studying the conversion of any inputs into audio. (TTS, SVS, VC, SVC, TTA, TTM) [[Paper](https://arxiv.org/abs/2312.09911), [Video(Chinese)](https://www.speechhome.com/events/online/1744281667499069440)]
+* [Speech Brain](https://github.com/speechbrain/speechbrain): A PyTorch-based Speech Toolkit.
+* [ESPNet](https://github.com/espnet/espnet): An End-to-End Speech Processing Toolkit.
 
