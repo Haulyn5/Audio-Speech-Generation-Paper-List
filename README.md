@@ -5,6 +5,7 @@ A curated list of papers and resources related to Speech &amp; Audio Generation.
 
 ### Text to Speech (TTS)
 
+* **Voicebox**: [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://arxiv.org/abs/2306.15687) (2023-06, Meta) [[Unofficial code](https://github.com/lucidrains/voicebox-pytorch), [Blog/ Demo](https://voicebox.metademolab.com/)]
 * **VALL-E**: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2301.02111) (2023-01, Microsoft) [[Unofficial code](https://github.com/enhuiz/vall-e)] 
 * **Your TTS**: [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for Everyone](https://proceedings.mlr.press/v162/casanova22a.html) (ICML 2022) [[Code](https://github.com/coqui-ai/tts)]
 * **FastSpeech2**: [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://openreview.net/forum?id=piLPYqxtWuA) (ICLR 2021) [[Unofficial Code](https://github.com/ming024/FastSpeech2)] A non-autoregressive text-to-speech (TTS) model designed to more effectively address the one-to-many mapping challenge in TTS, while outperforming autoregressive models in terms of voice quality.
