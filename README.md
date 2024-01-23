@@ -31,6 +31,10 @@ Notes that actually many audio generation models are also able to generate speec
 
 * **STACL**: [STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency using Prefix-to-Prefix Framework](https://aclanthology.org/P19-1289/) (ACL 2019) [[Demo](https://simultrans-demo.github.io/)]
 
+#### Speech Translation Dataset
+
+* **CoVoST 2**: [CoVoST 2 and Massively Multilingual Speech Translation](https://www.isca-speech.org/archive/interspeech_2021/wang21s_interspeech) (Interspeech 2021, Meta)  [[Official Code & Data](https://github.com/facebookresearch/covost)]
+
 ### Text to Music(TTM)
 
 ### Large Language Model(LLM)
